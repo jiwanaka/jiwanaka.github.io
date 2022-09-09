@@ -21,9 +21,9 @@ Have you ever just gotten stuck on a problem or a situation that feels beyond yo
 4. Try to find an answer by reading a FAQ.
 5. Try to find an answer by inspection or experimentation.
 6. Try to find an answer by asking a skilled friend.
+7. If you're a programmer, try to find an answer by reading the source code.
 
 
-If you're a programmer, try to find an answer by reading the source code.
 The first thing to look out for when formulating a smart question would be to understand the problem you are trying to solve because if you do not know what you are asking then how can the person answering understand how they need to answer the question. Formatting the question is also extremely important because you need to be able to get your question across without any confusion from things such as grammar issues. The title of the question also needs to be specific so people who are experts in what you are trying to ask are able to see it when scrolling through countless other questions. Finally, you need to show that you have made attempts at understanding your own question through things such as the code you wrote and a rundown of what you are trying to achieve. Many will be more willing to help if you made it look like you have put effort into trying to solve your own problem. 
 There are many programming questions constantly being asked day after day on Stack Overflow which is filled with both smart and silly questions. By showing an example of both a smart question and a not so smart question, it should hopefully help those that have issues asking questions on these types of forums.
 
