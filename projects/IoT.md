@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/RedLogo.webp
+image: img/RedLogo1.webp
 title: "Surf Station"
 date: 2022
 published: true
