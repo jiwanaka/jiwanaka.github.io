@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 200px-Node-red-icon.png
+image: projects/200px-Node-red-icon.png
 title: "Surf Station"
 date: 2022
 published: true
