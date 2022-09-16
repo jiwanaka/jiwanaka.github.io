@@ -9,18 +9,16 @@ labels:
   - Software Engineering
   - Thoughts
 ---
+## Where Do I Even Begin?
 
+Computers have always fascinated me and it was first sparked by my hobby and interest in video games. Watching as lines upon lines of written code can come together to create experiences that I will remember for the rest of my life and the ability to share that with others is amazing. As I gone through highschool I ended up deciding upon Computer Engineering as my major as the components of a computer fascinated me along with the software side. 
 
-This is going to be my first experience with Javascript and I would say that I have been interested in it for quite a while, but never had the time to learn it. I was able to learn Java, C, and C++ prior to this with C being the main language I would write in. 
+<img class="img-fluid" src="Learning.jpg">
 
-<img width="300px" class="rounded float-start pe-4" src="progLanguage.webp">
+## Interest in Software Engineering
 
-## Another day, another language
+Software Engineering allows for a lot more expression of creativity, I think. I am familiar with programming in C, C++, and Java with Javascript being another language on the list to learn. I think that learning a new coding language is a fun experience where I can find similarities and differences between the previous languages and see what was lacking or improved upon when moving to another. 
 
-What are my thoughts on Javascript so far? Well I would say that it is a bit of a relief from how I would always be on assignments that are restricted to C programming. Javascript and ES6 seem to hold a lot more shorthand methods and shortcuts that make my experience a lot less cluttered than I am used to. I think I had a much better time getting adjusted to javascript due to my smattering of knowledge of java and my more in-depth knowledge of C and C++. The whole ES6 portion of the tutorial was new to me and a nice look into what it had to offer. In the end, I think that Javascript might become rather fun and might become my preferred language to work in. 
+## What's The End Goal?
 
-<img width="300px" class="rounded float-start pe-4" src="getty_133970892_157811.jpg">
-
-## Practice, practice, and a bit more practice
-
-Athletic software engineering is something that I am not entirely used to as I usually try to make long periods of time for work with very little inbetweens. I also never really had an environment that encouraged hands-on learning during class periods which is usually delegated to our own hours. I think I might appreciate this method of learning as I was never tasked to program in such small bursts of time like this. The WODs are probably the best method of learning to me as I do start to forget things without constant practice. Even when this method can be stressful it really does get the gears turning much faster than when I have a prolonged deadline, which leads to it being rather enjoyable.
+In the future I hope to improve the speed at which I code because I am noticing that I take my time way too much when projects come around and I now realize how much time I am wasting. When entering the work force as a Computer Engineer I am going to face situations where clients will push a time table that requires faster and cleaner code and I hope to get in that practice right now. Making sure that the code that I write is commented on and is readable to other people is another future goal as I realize that I will almost never be writing just for myself and that code will need to be shared between multiple people and peers. Being clear and concise is something that I can use in every aspect of my life. 
