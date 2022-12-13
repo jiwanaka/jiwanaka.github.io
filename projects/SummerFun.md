@@ -4,7 +4,7 @@ type: project
 image: img/uh-rainbow.png
 title: "Club Finder Manoa"
 date: 2022
-published: false
+published: true
 labels:
 - Javascript
 - Web Application
