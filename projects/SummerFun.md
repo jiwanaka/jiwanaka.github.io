@@ -19,4 +19,3 @@ This project allowed me to learn about group work over GitHub as it will probabl
 
 This is a link to the project website: <a href="https://club-finder-manoa.github.io/">Project Overview</a>
 
-<img class="img-fluid" src="AdminPage1.PNG">
