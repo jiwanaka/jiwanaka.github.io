@@ -6,9 +6,9 @@ title: "Club Finder Manoa"
 date: 2022
 published: true
 labels:
-- Javascript
-- Web Application
-  summary: "Group of 5 were tasked with creating a website that would become a hub for all UH Manoa clubs. This will be a spot for students to find interesting new clubs and find out where to get more info."
+  - Javascript
+  - Web Application
+summary: "Group of 5 were tasked with creating a website that would become a hub for all UH Manoa clubs. This will be a spot for students to find interesting new clubs and find out where to get more info."
 ---
 
 This is an ICS 314 final project that was delegated to teams of 5 with the task of creating a website that would be both related to UH and useful to the school. So the team I was on was given the task of creating a club hub where people can find new school clubs that they would want to join and information such as emails of advisors or times of meetings. Other things the website has to do is allow club advisors and admins to create new clubs or add any additional information. This project is the culmination of everything we have learned thus far in ICS 314.
