@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uh-rainbow.png
+image: img/squareUH.png
 title: "Club Finder Manoa"
 date: 2022
 published: true
