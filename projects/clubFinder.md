@@ -17,6 +17,6 @@ For this project, I ended up helping create the organization that we would be us
 
 This project allowed me to learn about group work over GitHub as it will probably be used in future projects. I had gotten a taste of what Issue Driven Project Management was like and how tasks would be created and delegated throughout the team. The issue board was something like a brainstorm section where individuals of the team would create branches that anyone could work on and assign themselves to their own problems. 
 
-This is a link to the project website: 
+This is a link to the project website: <a href="https://club-finder-manoa.github.io/">Project Overview</a>
 
 <img class="img-fluid" src="AdminPage1.PNG">

@@ -4,7 +4,7 @@ type: project
 image: img/summer1.webp
 title: "Junior Leader"
 date: 2015
-published: true
+published: false
 labels:
   - Leadership
   - Summer Fun
