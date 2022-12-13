@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/summer1.webp
-title: "Summer Leadership"
+title: "Junior Leader"
 date: 2015
 published: true
 labels:
-- Leadership
-- Summer Fun
-  summary: "During a summer of high school, a group of friends and I were going to need to fulfill community service requirements and we ended up learning some great things along the way."
+  - Leadership
+  - Summer Fun
+summary: "During a summer of high school, a group of friends and I were going to need to fulfill community service requirements and we ended up learning some great things along the way."
 ---
 
  <p><img class="img-fluid" src="leadership.jpg" /></p>
