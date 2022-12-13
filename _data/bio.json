@@ -1,0 +1,47 @@
+{
+  "basics": {
+    "name": "Jayson Iwanaka",
+    "label": "Student",
+    "picture": "https://github.com/jiwanaka.png",
+    "email": "jiwanaka@hawaii.edu",
+    "phone": "808-352-6196",
+    "website": "https://jiwanaka.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Computer & Electrical Engineering at University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jiwanaka", "url": "http://github.com/jiwanaka" },
+      { "network": "linkedin", "username": "Jayson Iwanaka", "url": "https://www.linkedin.com/in/jayson-iwanaka-a6b10324a/" }
+    ]
+  },
+  "interests": [
+    { "name": "Video Games" },
+    { "name": "Music" },
+    { "name": "Coding" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "VS Code" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "Present",
+      "courses": ["ICS 111: Introduction to Computer Science I", "EE 160: Programming for Engineers", "EE 260: Introduction to Digital Design", "EE 205: Object Oriented Programming", "EE 211: Basic Circuit Analysis I", "EE 213: Basic Circuit Analysis II", "EE 296: Sophmore Project", "EE 324: Physical Electronics", "EE 371: Engineering Electromagnetics I", "EE 315: Signal and System Analysis", "EE 367: Computer Data Structure & Algorithms", "EE 368: Cyber-Physical Systems", "ICS 314: Software Engineering I", "EE 468: Operating Systems"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
